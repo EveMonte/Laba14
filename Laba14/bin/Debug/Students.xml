@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+  <student name="Кирилл Юркевич">
+    <speciality>ДЭиВИ</speciality>
+    <age>18</age>
+  </student>
+  <student name="Даниил Овчаренко">
+      <speciality>ИСиТ</speciality>
+    <age>18</age>
+  </student>
+</students>
